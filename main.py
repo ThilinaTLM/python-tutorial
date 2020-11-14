@@ -108,3 +108,10 @@
 # 35 S
 #    Fail
 
+# Score Student 1 : 60
+# Score Student 2 : 70 
+# Score Student 3 : 50
+
+# Student 2
+# Student 1
+# Student 3
